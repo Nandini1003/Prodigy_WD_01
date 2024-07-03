@@ -1,2 +1,4 @@
-# Prodigy_WD_01
-This task is a Responsive Landing Page which is a interactive navigation menu that changes color or style when scrolled or hovering over a menu item.
+# Responsive Landing Page
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Nandini-Vallavan/pen/zYQgLoo](https://codepen.io/Nandini-Vallavan/pen/zYQgLoo).
+
